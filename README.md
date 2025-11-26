@@ -3,7 +3,7 @@
 ## Membres du groupe
 - GERMAIN Amigaelle
 - JEANNIS Ted Hayden
-- Rene Nadine
+- RENE Nadine
 
 # User stories
   - Recherche et decouverte
@@ -31,3 +31,7 @@
   - Multilingue avance
   - Connexion & playlist
   - Recherche avance dans le texte
+
+  https://www.figma.com/design/tjqxTouUgjHh0wDEs5hyfW/Untitled?node-id=95-4&t=Wa6d6v0ol028MDbd-1
+  
+![MON LIVRE](https://github.com/user-attachments/assets/49007ea1-4efd-41ac-8982-6a7377d84490)
