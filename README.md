@@ -5,14 +5,14 @@
 - JEANNIS Ted Hayden
 - RENE Nadine
 
-# User stories
+## User stories
   - L'utisateur peut rechercher des livres efficacement
   - L'utilisateur peut parcourir differentes categories pour explorer des suggestions pertinentes
   - L'utisateur peut lire des livres directement dans l'application
   - L'utilisateur peut organiser ses livres dans une bibliotheque personnelle
   - L'utilisateur peut recevoir des notifications liees a ses lectures ou interactions
   
-# Must have
+## Must have
 - [x] Bibliotheque de lives
 - [x] Recherche efficace
 - [x] Lecteur integre (lecture dans l'app)
@@ -21,20 +21,20 @@
 - [ ] Avis & Notes 
 - [ ] Profil utilisateur
 
-# Maybe
+## Maybe
   - Audiobooks/Mode ecoute
   - Personalisation avance du lecteur
   - Signets & surlignage
   - Importation des fichiers
   - Mode resume
     
-# Would be nice to have
+## Would be nice to have
   - Fonctionalite sociale
   - Multilingue avance
   - Connexion & playlist
   - Recherche avance dans le texte
 
-# Description
+## Description
   MON LIVRE est une application mobile dediee aux passionnes de lecture. Elle permet aux utilisateurs de rechercher, lire et organiser leurs livres dans une bibliotheque personnelle. Grace a une interface intuitive, l'utilisateur peut decouvrir de nouveaux ouvrages, recevoir des notifications liees a ses lectures, et profiter d'une experience de lecture fluide et centralisee, directement dans l'application.
 
   https://www.figma.com/design/tjqxTouUgjHh0wDEs5hyfW/Untitled?node-id=95-4&t=Wa6d6v0ol028MDbd-1
