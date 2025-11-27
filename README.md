@@ -6,9 +6,11 @@
 - RENE Nadine
 
 # User stories
-  - Recherche et decouverte
-  - Lecture et gestion
-  - Avis et interactions
+  - L'utisateur peut rechercher des livres efficacement
+  - L'utilisateur peut parcourir differentes categories pour explorer des suggestions pertinentes
+  - L'utisateur peut lire des livres directement dans l'application
+  - L'utilisateur peut organiser ses livres dans une bibliotheque personnelle
+  - L'utilisateur peut recevoir des notifications liees a ses lectures ou interactions
   
 # Must have
 - [x] Bibliotheque de lives
